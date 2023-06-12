@@ -3,18 +3,16 @@
 <h2 align="center">"Priyanshu Saxena"</h2>
 
 <!-- Project Description -->
-<p align="center">A brief and catchy tagline or description of your project.</p>
+<p align="center">Hello there! I'm Priyanshu an aspiring developer and a fresh-faced college student. Welcome to my GitHub profile! I'm excited to embark on this coding journey.</p>
 
 <!-- Shields -->
 <p align="center">
-    <img src="https://img.shields.io/badge/version-v1.0-blue.svg" alt="Version">
-    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
-    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions">
+    <img src="https://avatars.githubusercontent.com/u/129535434?s=96&v=4" alt="Version">  
 </p>
 
 <!-- Preview Image or GIF -->
 <p align="center">
-    <img src="preview.png" alt="Project Preview">
+    <img src="https://github.com/" alt="priyanshu217">
 </p>
 
 <!-- Table of Contents -->
