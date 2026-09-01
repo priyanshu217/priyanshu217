@@ -46,7 +46,7 @@ More projects coming soon...
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshu-saxena-65b844278/" target="_blank">
-    <img src="./assets/linkedin_button.png" height="70" alt="LinkedIn">
+    <img src="🩸" height="70" alt="LinkedIn">
   </a>
 
   <a href="https://wa.me/YOUR_NUMBER" target="_blank">
