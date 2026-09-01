@@ -45,11 +45,15 @@ More projects coming soon...
 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-saxena-65b844278/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/priyanshu-saxena-65b844278/" target="_blank">
+    <img src="./assets/linkedin_button.png" height="70" alt="LinkedIn">
   </a>
-</p>---
 
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
+  <a href="https://wa.me/YOUR_NUMBER" target="_blank">
+    <img src="./assets/whatsapp_button.png" height="70" alt="WhatsApp">
+  </a>
+
+  <a href="https://github.com/priyanshu217" target="_blank">
+    <img src="./assets/github_button.png" height="70" alt="GitHub">
+  </a>
 </p>
