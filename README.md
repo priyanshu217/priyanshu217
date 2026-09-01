@@ -1,4 +1,4 @@
-# Hey there! I'm Aditya 👋
+# Hey there! I'm Priyanshu👋
 
 ## 👨🏻‍💻 About Me
 
@@ -20,8 +20,7 @@
 
 ### Languages
 
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"> , <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" alt="Java">
 <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" alt="C">
 <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++">
