@@ -12,10 +12,9 @@
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a><br><br>
 
-🧑‍💻 About Me
+<h1>🧑‍💻 About Me(⁠•⁠‿⁠•⁠) </h1>
 
 class PriyanshuSaxena:
-
     role = [
         "Data Analyst",
         "Data Scientist",
@@ -39,7 +38,7 @@ I enjoy working at the intersection of data, artificial intelligence, and web te
 
 My focus is on transforming raw data into meaningful insights, experimenting with AI/ML models, testing their capabilities and limitations, and building practical web-based solutions.
 
----
+
 
 🎯 What I Do
 
@@ -52,7 +51,7 @@ My focus is on transforming raw data into meaningful insights, experimenting wit
 📈 Data Visualization| Turning complex datasets into understandable visuals
 🔬 Experimentation| Exploring new tools, models, technologies & workflows
 
----
+
 
 🛠️ Tech Stack
 
@@ -102,7 +101,7 @@ My focus is on transforming raw data into meaningful insights, experimenting wit
                                 ↓
                     🌐 Practical Solutions
 
----
+
 
 🧪 AI Model Testing & Experimentation
 
@@ -119,7 +118,7 @@ I like exploring questions such as:
 
 «Experiment → Test → Measure → Analyze → Improve»
 
----
+
 
 📂 What You'll Find Here
 
@@ -146,17 +145,6 @@ I like exploring questions such as:
    ├── ⚡ Interactive Interfaces
    └── 🎨 Modern UI Projects
 
----
-
-📊 GitHub Analytics
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="170" /><br><br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" /></div>---
-
-📈 Contribution Activity
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" width="95%" /></div>---
 
 🏗️ Current Workflow
 
@@ -176,7 +164,7 @@ I like exploring questions such as:
   ↓
 🚀 Deploy / Share
 
----
+
 
 🌱 Currently Exploring
 
@@ -189,7 +177,7 @@ I like exploring questions such as:
 - ⚙️ AI-powered Applications
 - 🔬 Experimental AI workflows
 
----
+
 
 💡 My Philosophy
 
