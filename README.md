@@ -13,17 +13,15 @@
 </a><br><br>
 
 <h1>🧑‍💻 About Me(⁠•⁠‿⁠•⁠) </h1>
-class PriyanshuSaxena:
 
-
-
+    class PriyanshuSaxena:
 
     role = [
         "Data Analyst",
         "Data Scientist",
         "AI / ML Explorer",
-        "Web Developer" 
-   ]
+        "Web Developer"
+    ]
 
     interests = [
         "Data Analytics",
