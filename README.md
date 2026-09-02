@@ -22,9 +22,8 @@ class PriyanshuSaxena:
         "Data Analyst",
         "Data Scientist",
         "AI / ML Explorer",
-        "Web Developer"
-    ]
-
+        "Web Developer" 
+   ]
     interests = [
         "Data Analytics",
         "Machine Learning",
