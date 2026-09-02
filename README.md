@@ -12,8 +12,6 @@
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" /></div>---
-
 🧑‍💻 About Me
 
 class PriyanshuSaxena:
