@@ -1,93 +1,218 @@
-# Hey there! I'm Priyanshu👋
+<div align="center">👋 Hey, I'm Priyanshu Saxena
 
-<div align="center">
-  <h1> 👨🏻‍💻 About Me </h1> </div>
+📊 Data Analyst • 🤖 Data Scientist • 🌐 Web Developer • 🧠 AI Explorer
 
-💡 I like to explore new technologies and develop software solutions and quick hacks.
-🎓 I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.
-🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
-✍️ In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
-💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-✉️ You can shoot me an email at **[avsingh@umass.edu](mailto:avsingh@umass.edu)**! I'll try to respond as soon as I can.
-📄 Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me.
-
-<div align="center">
-
-<img width="1536" height="1024" alt="ChatGPT Image Sep 1, 2026, 09_56_43 AM" src="https://github.com/user-attachments/assets/ef995c6f-3393-4feb-9f9e-89ab8611a947" />
-
-
-</div>
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
-<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" alt="Java">
-<img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" alt="C">
-<img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++">
-<img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3" alt="R">
-
-### Frameworks & Web
-
-<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React"> <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
-<img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20" alt="Django">
-<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" alt="Flask">
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap">
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
-
-### Tools
-
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
-<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown">
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
-<img src="https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio" alt="RStudio">
-<img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="Eclipse">
-
-### Design
-
-<img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator" alt="Illustrator"> <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" alt="Photoshop">
-<img src="https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign" alt="InDesign">
-
-## 🌙 Night Coding
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" width="300">
-
-</div>
-
-## 🤝🏻 Connect With Me
-
-<div align="center">
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%F0%9F%93%88;Building+with+AI+%26+Machine+Learning+%F0%9F%A4%96;Creating+Modern+Web+Experiences+%F0%9F%8C%90;Testing+%26+Exploring+AI+Models+%F0%9F%A7%A0;Always+Learning%2C+Building+%26+Experimenting+%F0%9F%9A%80" alt="Typing SVG" /><br><a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://www.adityavsingh.com">
-<img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Website">
-</a>
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a><br><br>
 
-<a href="https://linkedin.com/in/AVS1508">
-<img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" /></div>---
 
-<a href="mailto:avsingh@umass.edu">
-<img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email">
-</a>
+🧑‍💻 About Me
 
-<a href="https://instagram.com/adityavs_">
-<img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram">
-</a>
+class PriyanshuSaxena:
 
-<a href="https://facebook.com/AVS1508">
-<img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook">
-</a>
+    role = [
+        "Data Analyst",
+        "Data Scientist",
+        "AI / ML Explorer",
+        "Web Developer"
+    ]
 
-<a href="https://www.pinterest.ca/AVS1508">
-<img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white" alt="Pinterest">
-</a>
+    interests = [
+        "Data Analytics",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Generative AI",
+        "AI Model Testing",
+        "Web Development",
+        "Data Visualization"
+    ]
 
-<a href="https://www.behance.net/AVS1508">
-<img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white" alt="Behance">
-</a>
+    mindset = "Learn → Build → Test → Analyze → Improve 🚀"
 
-</div>
+I enjoy working at the intersection of data, artificial intelligence, and web technologies.
+
+My focus is on transforming raw data into meaningful insights, experimenting with AI/ML models, testing their capabilities and limitations, and building practical web-based solutions.
+
+---
+
+🎯 What I Do
+
+🔍 Area| ⚡ What I Work On
+📊 Data Analytics| Data cleaning, EDA, visualization, dashboards & insights
+🤖 Data Science| Machine learning, predictive analysis & experimentation
+🧠 AI / ML| Model experimentation, evaluation & AI applications
+🧪 AI Model Testing| Testing model behavior, accuracy, limitations & reliability
+🌐 Web Development| Modern, responsive & interactive web applications
+📈 Data Visualization| Turning complex datasets into understandable visuals
+🔬 Experimentation| Exploring new tools, models, technologies & workflows
+
+---
+
+🛠️ Tech Stack
+
+📊 Data & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Models-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</p>🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+</p>---
+
+🚀 Featured Areas
+
+                 ┌─────────────────────────────┐
+                 │          RAW DATA           │
+                 └──────────────┬──────────────┘
+                                ↓
+                    🧹 Data Cleaning
+                                ↓
+                    🔎 Exploration / EDA
+                                ↓
+                  📊 Visualization & Analysis
+                                ↓
+                   🤖 ML / AI Experimentation
+                                ↓
+                     🧪 Model Evaluation
+                                ↓
+                   💡 Insights & Decisions
+                                ↓
+                    🌐 Practical Solutions
+
+---
+
+🧪 AI Model Testing & Experimentation
+
+One of my interests is going beyond simply using AI models.
+
+I like exploring questions such as:
+
+- 🧠 How well does a model understand a task?
+- 🎯 How accurate and consistent are its responses?
+- 🧪 How does it behave under different prompts?
+- 🔍 Where are its limitations?
+- ⚙️ How can AI be integrated into real applications?
+- 📈 How can model performance be evaluated systematically?
+
+«Experiment → Test → Measure → Analyze → Improve»
+
+---
+
+📂 What You'll Find Here
+
+📁 Data-Analytics
+   ├── 📊 Exploratory Data Analysis
+   ├── 📈 Data Visualization
+   ├── 🧹 Data Cleaning
+   └── 💡 Business Insights
+
+📁 Data-Science
+   ├── 🤖 Machine Learning
+   ├── 🔬 Experiments
+   ├── 📐 Statistical Analysis
+   └── 📊 Model Evaluation
+
+📁 AI
+   ├── 🧠 AI Experiments
+   ├── 🧪 Model Testing
+   ├── 🔍 Prompt Experiments
+   └── ⚙️ AI Applications
+
+📁 Web-Development
+   ├── 🌐 Websites
+   ├── ⚡ Interactive Interfaces
+   └── 🎨 Modern UI Projects
+
+---
+
+📊 GitHub Analytics
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="170" /><br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" /></div>---
+
+📈 Contribution Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" width="95%" /></div>---
+
+🏗️ Current Workflow
+
+💭 Idea
+  ↓
+🔎 Research
+  ↓
+📊 Collect / Prepare Data
+  ↓
+🧠 Build / Experiment
+  ↓
+🧪 Test
+  ↓
+📈 Analyze Results
+  ↓
+⚙️ Improve
+  ↓
+🚀 Deploy / Share
+
+---
+
+🌱 Currently Exploring
+
+- 🤖 Artificial Intelligence & Generative AI
+- 🧠 Machine Learning
+- 🧪 AI Model Evaluation & Testing
+- 📊 Advanced Data Analytics
+- 📈 Data Visualization
+- 🌐 Modern Web Development
+- ⚙️ AI-powered Applications
+- 🔬 Experimental AI workflows
+
+---
+
+💡 My Philosophy
+
+<div align="center">"Don't just use technology. Understand it, test it, and build with it."
+
+📊 Data → 🧠 Intelligence → 🧪 Experimentation → 🚀 Innovation
+
+</div>---
+
+🤝 Let's Connect
+
+I'm interested in data, AI, machine learning, web development, experimentation and interesting technical projects.
+
+<div align="center"><a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a href="https://www.adityavsingh.com">
+<img src="https://img.shields.io/badge/Visit_My-Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a><br><br>
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="120">⭐ Explore my repositories and follow the journey!
+
+</div>---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" width="100%"/></div>
